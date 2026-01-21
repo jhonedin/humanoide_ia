@@ -1,0 +1,8 @@
+1- Estando dentro de la carpeta que contiene el archivo Python del chatbot.
+2- escribir el siguiente comando en la consola, recordar tener el ambiente virtual corriendo.
+
+streamlit run .\nombre_del_archivo_python.py
+
+ejemplo:
+
+streamlit run .\streamlit_chatbot.py
